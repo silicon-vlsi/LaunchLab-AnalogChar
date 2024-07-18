@@ -12,11 +12,12 @@ Analog and Characterization portal for LaunchLab trainees.
   - [6] D. A. **Hodges** and David, _Analysis And Design Of Digital Integrated Circuits_, In Deep Submicron Technology (special Indian Edition). Tata McGraw-Hill Education, 2005. ([PDF](https://www.github.com/s/olc3j7hkarlwila/HodgesJackson-DesignAndAnalysisOfDigitalIC-3Ed-McGraw-2005.pdf))
 - **PAPERS/ARTICLES**
   - [1] H. Pretl and M. Eberlein, “_Fifty Nifty Variations of Two-Transistor Circuits: A tribute to the versatility of MOSFETs_,” IEEE Solid-State Circuits Magazine, vol. 13, no. 3, pp. 38–46, 2021, doi: 10.1109/MSSC.2021.3088968. ([PDF](https://www.github.com/s/midrgabej1mdo1k/2021-PretlEberlein-50variationsOf2transitorCkts-IEEESSCmag-13-3.pdf))
+  - [2] R. R. Harrison and C. Charles, “A low-power low-noise CMOS amplifier for neural recording applications,” IEEE Journal of Solid-State Circuits, vol. 38, no. 6, pp. 958–965, Jun. 2003, ([PDF](https://core.ac.uk/download/pdf/276287485.pdf)) : Eq.-2 describes the gm/Id vs region-of-operation.
 
 # Assignments
 
 - [18/07] Johns \& Martin Analog tasks and 50 Nifty ckts:
-  - Go through the _50 Nifty_ 2-transistor CMOS circuits
+  - Go through the _50 Nifty_ 2-transistor [1] CMOS circuits
   - Johns \& Martin assignments: Chap-3 (All sections). Problems: 3.1-3.7
 
 
